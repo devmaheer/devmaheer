@@ -1,4 +1,4 @@
-<!-- HEADER BANNER (FIXED & ANIMATED) -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=250&section=header&text=devmaheer&fontSize=75&animation=twinkling&fontAlignY=35&desc=Maheer%20Khan&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
@@ -6,7 +6,7 @@
 <!-- SUBTITLE & LOCATION BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
-  <img src="https://img.shields.io/badge/Location-Rawalpindi%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Peshawar%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
 </p>
 
@@ -16,7 +16,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Advanced+Automation+Engineer;Mastering+AI+Security+%26+Hacking;Vibe+Coding+at+Light+Speed;Building+Digital+Startups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Advanced+Automation+Engineer;Mastering+AI+Security+and+Hacking;Vibe+Coding+at+Light+Speed;Building+Digital+Startups" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,14 +45,16 @@
 
 <br>
 
-<!-- SUPER PROMINENT BUY ME A COFFEE BANNER -->
+<!-- FIXED: CENTER STAGE BUY ME A COFFEE BANNER (NO BROKEN EMOJIS IN THE URL) -->
 <p align="center">
   <a href="https://buymeacoffee.com/maheerkhan" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=☕+Fuel+My+Next+Build!;☕+Support+My+Startup!;☕+Buy+Me+A+Coffee!" alt="Buy Me A Coffee Animated Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=Fuel+My+Next+Build!;Support+My+Startup!;Buy+Me+A+Coffee!" alt="Buy Me A Coffee Animated Text" />
   </a>
 </p>
 <p align="center">
-  <a href="https://buymeacoffee.com/maheerkhan" target="_blank"><img src="https://img.shields.io/badge/☕_Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Button" height="40" /></a>
+  <a href="https://buymeacoffee.com/maheerkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Button" height="40" />
+  </a>
 </p>
 <br>
 
@@ -124,7 +126,7 @@
 
 ---
 
-<!-- INTERACTIVE TERMINAL CONNECT (GLITCH FIXED) -->
+<!-- INTERACTIVE TERMINAL CONNECT (FIXED SPACING AND WRAPPING) -->
 <h2>🌐 Interactive Terminal Connect</h2>
 
 <p align="left">
@@ -136,20 +138,24 @@
   <a href="https://www.facebook.com/people/Maheer-Khan/pfbid07ATbSKjer69azKVGsMj3sC5cxD2aULQ31oCFZweDaCE4aXqokYbPBg8QT4n2JhLel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-> 📧 **Official Inquiries:** maheerkhanoffical@gmail.com | **Alternative:** Maheerkhan3a@gmail.com
+<blockquote>
+  📧 <strong>Official Inquiries:</strong> maheerkhanoffical@gmail.com | <strong>Alternative:</strong> Maheerkhan3a@gmail.com
+</blockquote>
 
 ---
 
-<!-- LIVE METRICS AND STATS BLOCK -->
+<!-- FIXED: LIVE METRICS ENGINE (CLEAN HYBRID MARKDOWN FORMATTING) -->
 <h2>📊 Live Core Engine Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmaheer&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="Maheer's Stats Card" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaheer&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Breakdown" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devmaheer&show_icons=true&theme=tokyonight&count_private=true" alt="Maheer's Stats Card" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaheer&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Breakdown" height="195" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaheer&theme=tokyonight" alt="Commit Streak Engine" width="100%" />
 </p>
+
+> 💡 *Note: If the live core metric cards above still show a loading/broken icon initially, don't worry! They will activate automatically the moment you push your first public code repository file to this new `devmaheer` account.*
 
 ---
 
