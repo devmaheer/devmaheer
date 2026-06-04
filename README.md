@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
   <img src="https://img.shields.io/badge/Location-Rawalpindi%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
+  <img src="https://komarev.com/ghpvc/?username=devmaheer&color=00f2fe&style=for-the-badge&label=SYSTEM+VIEWS+%F0%9F%91%81" alt="devmaheer profile views" />
 </p>
 
 <p align="center">
@@ -43,9 +44,31 @@
 </blockquote>
 </details>
 
+---
+
+<!-- FEATURED SHOWROOM SHOWCASING CORE INTELLECTUAL ASSETS -->
+<h2>🚀 Featured Showroom & Innovations</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 MYDOCMAKER Ecosystem</h3>
+      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
+      <p>An intelligent, high-speed AI ecosystem engineered to completely automate professional document generation and workflow pipelines.</p>
+      <sub><strong>Tech Stack:</strong> Advanced Prompt Engineering, Next.js, API Integration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Hexxo Shop Architecture</h3>
+      <img src="https://img.shields.io/badge/Status-Active%20Design-00d26a?style=flat-square" alt="Status" />
+      <p>A sleek brand architecture focusing on premium automotive technology integration and modern digital consumer experiences.</p>
+      <sub><strong>Tech Stack:</strong> UI/UX Design, E-Commerce Systems, Automation</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<!-- CENTER STAGE BUY ME A COFFEE BANNER -->
+<!-- CENTER STAGE NOTICEABLE BUY ME A COFFEE BANNER -->
 <p align="center">
   <a href="https://buymeacoffee.com/maheerkhan" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=Fuel+My+Next+Build!;Support+My+Startup!;Buy+Me+A+Coffee!" alt="Buy Me A Coffee Animated Text" />
@@ -154,7 +177,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=a9b1d6&center=true&vCenter=true&width=500&lines=System+Online:+Awaiting+First+Project+Push...;Monitoring+Active+Freelance+Assets...;Hardening+System+Logic+Pipelines..." alt="Terminal Analytics Placeholder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=a9b1d6&center=true&vCenter=true&width=500&lines=System+Online:+Tracking+Active+Assets...;Templates+Initialized:+Awaiting+Code+Deployment...;Hardening+System+Logic+Boundaries..." alt="Terminal Analytics Placeholder" />
+</p>
+
+<!-- RETRO ARCADE CONTRIBUTION SNAKE ENGINE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devmaheer/devmaheer/output/github-contribution-grid-snake.svg" alt="Grid Snake Animation" width="100%" />
 </p>
 
 ---
