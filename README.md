@@ -1,88 +1,146 @@
-I am a 14-year-old developer, freelancer, and tech builder based in Pakistan, studying at **APSACS Pasban**. I don't just build software—I architect intelligent digital ecosystems, secure systems from vulnerabilities, and turn complex code into seamless client solutions. Driven by a mission to continuously innovate, optimize, and build impactful digital products.
-
----
-
-## 🎯 What I'm Doing Right Now
-- 🛠️ **Building the Future:** Actively developing my latest tech startup and engineering automated systems.
-- 🎓 **Skill Upskilling:** Taking advanced courses and deep-diving into systems logic and software architecture.
-- 🛡️ **Cyber Security Research:** Actively studying vulnerabilities, specialized reverse engineering, and threat mitigation.
-
----
-
-## 🧰 Technical Skills & Core Competencies
-
-### 🤖 AI, Automation & Prompt Engineering
-- **Advanced Prompt Engineering:** Masterful control over LLMs, custom system instructions, and multi-agent workflow orchestration.
-- **Vibe Coding & Automation:** Leveraging high-speed AI-native development toolchains to spin up optimized automation scripts and autonomous background workflows.
-- **AI Tool Integration:** Experienced in seamlessly wiring API pipelines, automating repetitive client workflows, and scaling AI application layers.
-
-### 🌐 Frontend & Backend Development
-- **Languages:** Python, TypeScript, C#, C++, JavaScript, HTML5/CSS3, Luau
-- **C# & .NET Architecture:** Crafting robust Windows desktop applications, modern UI/UX setups, and custom desktop licensing architectures.
-- **C++ IMGUI Interfaces:** Designing blazing-fast, lightweight graphical overlays, menus, and clean system tools.
-- **UI/UX Design:** Wireframing and producing sleek, intuitive, and modern user experiences built for maximum user retention and client clarity.
-
-### 💼 Professional Operations & Execution
-- **Client Management:** Handling end-to-end communication, product strategy, scope design, and clean product delivery for freelance clients.
-- **Office Operations:** Highly organized workflow documentation, data tracking, and structured project management.
-
----
-
-## 🧭 My Specialized Security Interests & Research Areas
-
-I am deeply invested in the intersection of artificial intelligence and systems security. My target is to master the defensive and offensive landscapes of tomorrow's technology:
-
-* 🛡️ **Cyber Security & Hardening:** Analyzing software vulnerabilities, malware analysis, and code safety.
-* 🔎 **Reverse Engineering:** Decompiling binaries, analyzing runtime memory, and understanding closed-source software internals.
-* 🤖 **AI Hacking & AI Security:** Hardening Large Language Models against exploitation and auditing AI training pipelines.
-* 💉 **Prompt Injection Defense:** Researching systemic boundaries to prevent adversarial prompt manipulation, data leakage, and system bypasses.
-
----
-
-## 🪵 The Founder’s Journey: Attempts & Adaptations
-
-True developers aren't defined by clean runs; they are built through iteration. Every failure is just data for the next successful build.
-
-* 🛒 **E-Commerce Architecture:** Designed and attempted to deploy a fully-integrated digital storefront. (Status: *Failed, gathered immense supply chain and store-design knowledge*).
-* 🚀 **Tech Startup Build v1:** Attempted to launch an independent digital solution framework from the ground up. (Status: *Failed, learned critical execution, marketing, and business strategy laws*).
-* 🔄 **Current Venture:** Actively building, engineering, and designing my next core startup system with improved logic and stronger security fundamentals.
-
----
-
-## 📊 Live Coding Analytics
-
-<p align="left">
-  <!-- Dynamic Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Maheer's GitHub Stats" height="175px"/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="175px"/>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,15,20&height=280&section=header&text=MAHEER%20KHAN&fontSize=70&animation=twinkling&fontAlignY=40" width="100%" alt="Header Banner" />
 </p>
 
-> *Note: Remember to replace `YOUR_GITHUB_USERNAME` in the two image links above with your exact GitHub account handle to make your live data show up automatically!*
+<!-- SUBTITLE & LOCATION BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
+  <img src="https://img.shields.io/badge/Location-Peshawar%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
+</p>
+
+<p align="center">
+  <strong>🚀 Founder • Full-Stack Developer • AI Cyber Security Researcher 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Advanced+Automation+Engineer;Mastering+AI+Security+%26+Hacking;Vibe+Coding+at+Light+Speed;Building+Digital+Startups" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
-
-Let's collaborate, talk shop, or build something exceptional together.
-
-### 📬 Direct Channels
-- 📧 **Primary Email:** [maheerkhanoffical@gmail.com](mailto:maheerkhanoffical@gmail.com)
-- 📧 **Secondary Email:** [Maheerkhan3a@gmail.com](mailto:Maheerkhan3a@gmail.com)
-- 💬 **WhatsApp Direct:** [+92 336 9183893](https://wa.me/923369183893?text=Hi%20Maheer,%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
-- 🎧 **Discord:** [@maheerkhan](https://discord.com/users/1501158762688413798)
-
-### 🌐 Digital Footprint
-- 📸 **Instagram:** [@maheerkhan.exe](https://www.instagram.com/maheerkhan.exe/)
-- 📱 **TikTok:** [@maheerkhan.exe](https://tiktok.com/@maheerkhan.exe)
-- 👥 **Facebook:** [Maheer Khan](https://www.facebook.com/people/Maheer-Khan/pfbid07ATbSKjer69azKVGsMj3sC5cxD2aULQ31oCFZweDaCE4aXqokYbPBg8QT4n2JhLel/)
-- 🎮 **Roblox Studio Profile:** [Salaar's Roblox Profile](https://www.roblox.com/users/10234139949/profile)
-
-### ☕ Support My Work
-- ☕ **Buy Me A Coffee:** [buymeacoffee.com/maheerkhan](https://buymeacoffee.com/maheerkhan)
+<!-- CURRENT ACTIVE STATUS BOX -->
+<details open>
+<summary><h2>📥 Current Mission Control</h2></summary>
+<blockquote border-left="20px solid #00F2FE">
+  <table>
+    <tr>
+      <td><strong>🛠️ Tech Startup</strong></td>
+      <td>Engineering and designing an intelligent, secure automation infrastructure from the ground up.</td>
+    </tr>
+    <tr>
+      <td><strong>📚 Deep Learning</strong></td>
+      <td>Taking advanced architectural courses, refining prompt engineering systems, and mastering systems logic.</td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ Cyber Research</strong></td>
+      <td>Auditing software internals, reverse engineering closed binaries, and mapping out modern exploit code paths.</td>
+    </tr>
+  </table>
+</blockquote>
+</details>
 
 ---
 
-## 🧠 Core Philosophy
+<!-- TECH STACK & SKILLS DIRECTORY -->
+<h2>🧰 Skills & Arsenal Grid</h2>
 
-> "The master has failed more times than the beginner has even tried. Every broken build, every failed startup, and every closed door is just a software update for your soul. Do not aim to be better than others; look at the horizon and resolve to be the absolute best version of yourself. Fall seven times, optimize, code the solution, and stand up eight." 🔥
+<!-- AI & AUTOMATION BADGES -->
+### 🤖 AI, Automation & Prompt Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-💡%20Expert-00F2FE?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-⚡%20Hyper%20Speed-FF007F?style=for-the-badge" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Automations-🤖%20Agentic-7928CA?style=for-the-badge" alt="Automations" />
+  <img src="https://img.shields.io/badge/AI%20Tools%20Integration-🧠-FF4B4B?style=for-the-badge" alt="AI Integration" />
+</p>
+
+<!-- CORE DEVELOPMENT LANGS -->
+### 💻 Languages & Framework Architectures
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/.NET%20Designs-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20ImGui-🔥%20Sleek%20UIs-orange?style=for-the-badge" alt="ImGui" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-🎨-FF5733?style=for-the-badge" alt="UIUX" />
+</p>
+
+<!-- PROFESSIONAL EXECUTION -->
+### 💼 Business Operations & Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Client%20Management-🤝%20Premium-00D26A?style=for-the-badge" alt="Client Management" />
+  <img src="https://img.shields.io/badge/Office%20Operations-📊-🛠️?style=for-the-badge" alt="Office Skills" />
+</p>
+
+---
+
+<!-- SPECIALIZED SECURITY TARGETS -->
+<h2>💀 Target Specializations (What I'm Conquering)</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Cyber Security & RE</h3>
+      <p>Analyzing compiled assembly files, auditing software logic, tracking data patterns, and setting deep system boundaries against malware injections.</p>
+    </td>
+    <td width="50%">
+      <h3>💉 AI Security & Hacking</h3>
+      <p>Studying defensive Prompt Injection shields, security-proofing backend LLM logic parameters, and protecting API structures from systemic breaches.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- FOUNDER CHRONICLES (COLLAPSIBLE TIMELINE FOR AMAZING UI) -->
+<details>
+<summary><h3>🪵 The Founder Chronicles: Failures & Adaptations (Click to Expand)</h3></summary>
+<br />
+<blockquote>
+  <p><strong>🛒 The E-Commerce Deployment (Attempted)</strong><br />
+  Built and configured a completely custom checkout process and storefront network. <i>Result: Store failure, but mastered digital logistics, store architecture, and optimization rules.</i></p>
+  <hr />
+  <p><strong>🚀 Startup Framework v1 (Attempted)</strong><br />
+  Attempted a fully standalone software services pipeline from scratch. <i>Result: Failed to secure runway, but gained sharp client handling, execution strategy, and operational frameworks.</i></p>
+  <hr />
+  <p><strong>🔥 Current Venture (Active Status: Core Engineering)</strong><br />
+  Re-architecting from square one with powerful automated frameworks and bulletproof security pipelines. Failure isn't final; it's a data upgrade.</p>
+</blockquote>
+</details>
+
+---
+
+<!-- INTERACTIVE BUTTON CONTACT HUB -->
+<h2>🌐 Interactive Terminal Connect</h2>
+
+<p align="left">
+  <!-- WHATSAPP BUTTON -->
+  <a href="https://wa.me/923369183893?text=Hi%20Maheer,%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <!-- DISCORD BUTTON -->
+  <a href="https://discord.com/users/1501158762688413798" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Profile%20Link-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <!-- INSTAGRAM BUTTON -->
+  <a href="https://www.instagram.com/maheerkhan.exe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- TIKTOK BUTTON -->
+  <a href="https://tiktok.com/@maheerkhan.exe" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Watch-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <!-- ROBLOX BUTTON -->
+  <a href="https://www.roblox.com/users/10234139949/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-Developer%20Hub-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  </a>
+  <!-- FACEBOOK BUTTON -->
+  <a href="https://www.facebook.com/people/Maheer-Khan/pfbid07ATbSKjer69azKVGsMj3sC5cxD2aULQ31oCFZweDaCE4aXqokYbPBg8QT4n2JhLel/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+```markdown
+📧 Official Inquiries: maheerkhanoffical@gmail.com  |  Alternative: Maheerkhan3a@gmail.com
