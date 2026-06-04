@@ -6,7 +6,7 @@
 <!-- SUBTITLE & LOCATION BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
-  <img src="https://img.shields.io/badge/Location-Peshawar%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Rawalpindi%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
 </p>
 
@@ -45,7 +45,7 @@
 
 <br>
 
-<!-- FIXED: CENTER STAGE BUY ME A COFFEE BANNER (NO BROKEN EMOJIS IN THE URL) -->
+<!-- CENTER STAGE BUY ME A COFFEE BANNER -->
 <p align="center">
   <a href="https://buymeacoffee.com/maheerkhan" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=Fuel+My+Next+Build!;Support+My+Startup!;Buy+Me+A+Coffee!" alt="Buy Me A Coffee Animated Text" />
@@ -126,7 +126,7 @@
 
 ---
 
-<!-- INTERACTIVE TERMINAL CONNECT (FIXED SPACING AND WRAPPING) -->
+<!-- INTERACTIVE TERMINAL CONNECT -->
 <h2>🌐 Interactive Terminal Connect</h2>
 
 <p align="left">
@@ -144,18 +144,18 @@
 
 ---
 
-<!-- FIXED: LIVE METRICS ENGINE (CLEAN HYBRID MARKDOWN FORMATTING) -->
+<!-- BULLETPROOF STEADY STATE TERMINAL GRID -->
 <h2>📊 Live Core Engine Metrics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmaheer&show_icons=true&theme=tokyonight&count_private=true" alt="Maheer's Stats Card" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaheer&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Breakdown" height="195" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaheer&theme=tokyonight" alt="Commit Streak Engine" width="100%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Account%20Status-Active%20Operational-00F2FE?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Main%20Engine-Full%20Stack%20%7C%20AI%20Automation-7928CA?style=for-the-badge" alt="Engine" />
+  <img src="https://img.shields.io/badge/Deployment%20Integrity-Secured%20%E2%9C%94-00d26a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Integrity" />
 </p>
 
-> 💡 *Note: If the live core metric cards above still show a loading/broken icon initially, don't worry! They will activate automatically the moment you push your first public code repository file to this new `devmaheer` account.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=a9b1d6&center=true&vCenter=true&width=500&lines=System+Online:+Awaiting+First+Project+Push...;Monitoring+Active+Freelance+Assets...;Hardening+System+Logic+Pipelines..." alt="Terminal Analytics Placeholder" />
+</p>
 
 ---
 
