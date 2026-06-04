@@ -1,12 +1,12 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (FIXED & ANIMATED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,15,20&height=280&section=header&text=MAHEER%20KHAN&fontSize=70&animation=twinkling&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=250&section=header&text=devmaheer&fontSize=75&animation=twinkling&fontAlignY=35&desc=Maheer%20Khan&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
 <!-- SUBTITLE & LOCATION BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
-  <img src="https://img.shields.io/badge/Location-Peshawar%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Rawalpindi%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
 </p>
 
@@ -14,8 +14,9 @@
   <strong>🚀 Founder • Full-Stack Developer • AI Cyber Security Researcher 🚀</strong>
 </p>
 
+<!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Advanced+Automation+Engineer;Mastering+AI+Security+%26+Hacking;Vibe+Coding+at+Light+Speed;Building+Digital+Startups" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Advanced+Automation+Engineer;Mastering+AI+Security+%26+Hacking;Vibe+Coding+at+Light+Speed;Building+Digital+Startups" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,6 +24,7 @@
 <!-- CURRENT ACTIVE STATUS BOX -->
 <details open>
 <summary><h2>📥 Current Mission Control</h2></summary>
+<br>
 <blockquote border-left="20px solid #00F2FE">
   <table>
     <tr>
@@ -41,12 +43,24 @@
 </blockquote>
 </details>
 
+<br>
+
+<!-- SUPER PROMINENT BUY ME A COFFEE BANNER -->
+<p align="center">
+  <a href="https://buymeacoffee.com/maheerkhan" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&lines=☕+Fuel+My+Next+Build!;☕+Support+My+Startup!;☕+Buy+Me+A+Coffee!" alt="Buy Me A Coffee Animated Text" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://buymeacoffee.com/maheerkhan" target="_blank"><img src="https://img.shields.io/badge/☕_Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Button" height="40" /></a>
+</p>
+<br>
+
 ---
 
 <!-- TECH STACK & SKILLS DIRECTORY -->
 <h2>🧰 Skills & Arsenal Grid</h2>
 
-<!-- AI & AUTOMATION BADGES -->
 ### 🤖 AI, Automation & Prompt Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-💡%20Expert-00F2FE?style=for-the-badge" alt="Prompt Engineering" />
@@ -55,7 +69,6 @@
   <img src="https://img.shields.io/badge/AI%20Tools%20Integration-🧠-FF4B4B?style=for-the-badge" alt="AI Integration" />
 </p>
 
-<!-- CORE DEVELOPMENT LANGS -->
 ### 💻 Languages & Framework Architectures
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -67,7 +80,6 @@
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-🎨-FF5733?style=for-the-badge" alt="UIUX" />
 </p>
 
-<!-- PROFESSIONAL EXECUTION -->
 ### 💼 Business Operations & Management
 <p align="left">
   <img src="https://img.shields.io/badge/Client%20Management-🤝%20Premium-00D26A?style=for-the-badge" alt="Client Management" />
@@ -94,7 +106,7 @@
 
 ---
 
-<!-- FOUNDER CHRONICLES (COLLAPSIBLE TIMELINE FOR AMAZING UI) -->
+<!-- FOUNDER CHRONICLES (COLLAPSIBLE TIMELINE) -->
 <details>
 <summary><h3>🪵 The Founder Chronicles: Failures & Adaptations (Click to Expand)</h3></summary>
 <br />
@@ -112,35 +124,42 @@
 
 ---
 
-<!-- INTERACTIVE BUTTON CONTACT HUB -->
+<!-- INTERACTIVE TERMINAL CONNECT (GLITCH FIXED) -->
 <h2>🌐 Interactive Terminal Connect</h2>
 
 <p align="left">
-  <!-- WHATSAPP BUTTON -->
-  <a href="https://wa.me/923369183893?text=Hi%20Maheer,%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <!-- DISCORD BUTTON -->
-  <a href="https://discord.com/users/1501158762688413798" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Profile%20Link-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <!-- INSTAGRAM BUTTON -->
-  <a href="https://www.instagram.com/maheerkhan.exe/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- TIKTOK BUTTON -->
-  <a href="https://tiktok.com/@maheerkhan.exe" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Watch-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <!-- ROBLOX BUTTON -->
-  <a href="https://www.roblox.com/users/10234139949/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-Developer%20Hub-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-  </a>
-  <!-- FACEBOOK BUTTON -->
-  <a href="https://www.facebook.com/people/Maheer-Khan/pfbid07ATbSKjer69azKVGsMj3sC5cxD2aULQ31oCFZweDaCE4aXqokYbPBg8QT4n2JhLel/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://wa.me/923369183893?text=Hi%20Maheer,%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://discord.com/users/1501158762688413798" target="_blank"><img src="https://img.shields.io/badge/Discord-Profile%20Link-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.instagram.com/maheerkhan.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@maheerkhan.exe" target="_blank"><img src="https://img.shields.io/badge/TikTok-Watch-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.roblox.com/users/10234139949/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-Developer%20Hub-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>
+  <a href="https://www.facebook.com/people/Maheer-Khan/pfbid07ATbSKjer69azKVGsMj3sC5cxD2aULQ31oCFZweDaCE4aXqokYbPBg8QT4n2JhLel/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-```markdown
-📧 Official Inquiries: maheerkhanoffical@gmail.com  |  Alternative: Maheerkhan3a@gmail.com
+> 📧 **Official Inquiries:** maheerkhanoffical@gmail.com | **Alternative:** Maheerkhan3a@gmail.com
+
+---
+
+<!-- LIVE METRICS AND STATS BLOCK -->
+<h2>📊 Live Core Engine Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmaheer&show_icons=true&theme=tokyonight&count_private=true&edge_flat=false" alt="Maheer's Stats Card" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaheer&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Breakdown" height="195px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaheer&theme=tokyonight" alt="Commit Streak Engine" width="100%" />
+</p>
+
+---
+
+<!-- CLOSING PHILOSOPHY SOUL BANNER -->
+<p align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="4px" alt="Divider Line" />
+  <br />
+  <br />
+  <sub>"The master has failed more times than the beginner has even tried. Every broken build, every failed startup, and every closed door is just a software update for your soul. Do not aim to be better than others; look at the horizon and resolve to be the absolute best version of yourself. Fall seven times, optimize, code the solution, and stand up eight." ❤️ 🔥</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=120&section=footer" width="100%" alt="Footer Banner" />
+</p>
