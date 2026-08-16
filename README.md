@@ -5,7 +5,7 @@
 
 <!-- SUBTITLE & LOCATION BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-14%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
+  <img src="https://img.shields.io/badge/Age-15%20Years%20Old-ff69b4?style=for-the-badge&logo=target" alt="Age" />
   <img src="https://img.shields.io/badge/Location-Rawalpindi%20%7C%20Pakistan-00d26a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-APSACS%20PASBAN-007acc?style=for-the-badge&logo=bookstack" alt="Education" />
   <img src="https://komarev.com/ghpvc/?username=devmaheer&color=00f2fe&style=for-the-badge&label=SYSTEM+VIEWS+%F0%9F%91%81" alt="devmaheer profile views" />
